@@ -1,0 +1,20 @@
+1. Initialize git repository
+: git init
+
+2. Adding files to the staging area.
+: git add .
+
+3. Commit files on the staging area.
+: git commit -m "commit message"
+
+4. Push your commits to the remote (github)
+: git push -u origin master
+
+5. Adding remote url
+: git remote add origin http://www.github.com/<your-repo>.git
+
+6. Check status
+: git status
+
+7. Check commit logs
+: git log
